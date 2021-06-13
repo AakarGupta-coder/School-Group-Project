@@ -1089,13 +1089,13 @@ a:hover {
 
 .portfolio-details .portfolio-details-slider img {
   width: 97.5%;
-  height: 320px;
+  height: 520px;
 }
 
 @media (max-width: 770px){
   .portfolio-details .portfolio-details-slider img {
     width: 100%;
-    height: 520px;
+    height: 300px;
   }
 }
 
