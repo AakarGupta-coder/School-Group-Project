@@ -1,9 +1,3 @@
-/**
-* Project Name: DevFolio - v4.1.0
-* Project URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-Project/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 (function() {
   "use strict";
 
